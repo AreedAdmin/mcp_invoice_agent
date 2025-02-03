@@ -1,0 +1,8 @@
+Library/
+.Trash/
+Documents/
+Downloads/
+.DS_Store
+node_modules/
+*.log
+
